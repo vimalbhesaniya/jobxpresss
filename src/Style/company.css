@@ -1,0 +1,187 @@
+:root{
+    --main: #ffffff3f;
+    --font : rgb(255, 255, 255);
+    --boder : 1px solid rgba(0, 0, 0, 0.492);
+}
+.company--main{
+    margin: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+    overflow: hidden;
+    box-shadow: 0  0 5px rgba(0, 0, 0, 0.492);
+}
+.c-right{
+    width: 70%;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+select{
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    
+  }
+.c-left{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    background-color: var(--main);
+    box-shadow: 0px 0px 55px -3px rgba(100, 100, 100, 0.75);
+}
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+.c-profilesection{
+    height:  10vh;
+    width: 30vh;
+    font-family: 'Satisfy', cursive;
+    box-shadow: 0px 0px 236px 8px rgba(0, 0, 0, 0.395) ;
+    border: 3px solid white;
+    color: var(--boder);
+    font-size: 3dvh;
+    background: rgba(219, 212, 222, 0.758);
+    border-radius: 50%;
+    
+    display: grid;
+    place-items: center;
+    
+}
+.c-left .c-name{
+    color: black;
+}
+.c-table{
+    border-bottom: 1px solid rgba(61, 61, 61, 0.413);
+    width: 70%;
+    border-radius: 10px;
+    height: 10vh;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c-hire{
+    position: absolute;
+    bottom: 0px;
+    /* border: 1px solid white; */
+    width: 25%;
+    height: 20vh;
+    display: grid;
+    place-items: center;
+}
+.btn-hire{
+    background-color: rgb(130, 58, 166);
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(223, 139, 213);
+    outline: none;
+    border: none;
+    transition: 500ms;
+}
+.btn-hire:hover{
+    background-color: rgb(149, 28, 255);
+    box-shadow: 0px 0px 30px 0px rgb(176, 83, 210);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&family=Satisfy&display=swap');
+.c-lable{
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 500;
+    display: flex;
+    width: auto;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+.c-table-col{
+    display: flex; 
+    justify-content: start;
+    width: 70%;
+    height: 100%;
+    align-items: center;
+    font-family: 'Karla', sans-serif;
+}
+.c-table-lable-col{
+    width: 30%;
+    height: auto;
+    display: flex;
+    justify-content: start;
+}
+.c-table-unborderd{
+    width: 70%;
+    border-radius: 10px;
+    height: 10vh;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-d-more{
+    /* height: 10px; */
+    background-color: rgb(58, 146, 166);
+    /* padding: 10px; */
+    font-size: smaller;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    transition: 500ms;
+}
+.c-d-more:hover{
+    box-shadow: 0px 0px 208px 30px rgb(0, 180, 187);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+
+.c-v-more{
+    /* height: 10px; */
+    background-color: rgb(255, 137, 33);
+    /* padding: 10px; */
+    font-size: smaller;
+    padding: 10px;
+    border:  none;
+    cursor: pointer; 
+    border-radius: 10px;
+    transition: 500ms;
+}
+.c-v-more:hover{
+    box-shadow: 0px 0px 208px 30px rgb(187, 125, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+}
+.btn-positions{
+   /* height: 10px; */
+   background-color: rgb(58, 166, 60);
+   /* padding: 10px; */
+   font-size: smaller;
+   padding: 10px;
+   cursor: pointer;
+   border-radius: 10px;
+   border: none;
+   transition: 500ms;   
+}
+.btn-positions:hover{
+    background-color: rgb(54, 168, 109);
+    box-shadow: 0px 0px 208px 30px rgb(0, 255, 13);
+    color: rgb(255, 255, 255);
+    border: none;
+
+}
+.container{
+    padding: 100px;
+    height: 100vh;
+}
+.btn----{
+    width: 30%;
+}

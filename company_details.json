@@ -1,0 +1,135 @@
+[
+  {
+    "company": "6503c7b0cd4cd139db73b0bd", 
+    "aboutus": "We are a technology company specializing in software development and IT solutions.",
+    "mission": "Our mission is to deliver cutting-edge technology solutions that empower businesses to succeed.",
+    "whyworkwithus": "Join us if you want to work on challenging projects, learn and grow in a collaborative environment.",
+    "currentopenings": "We are currently hiring software developers and project managers.",
+    "contactus": ["contact@company1.com", "+1 (123) 456-7890"],
+    "established_year": 2005,
+    "website": "https://www.company1.com",
+    "social_media_links": ["https://www.linkedin.com/company/company1", "https://twitter.com/company1"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0be",
+    "aboutus": "We are a leading financial institution providing a wide range of banking services.",
+    "mission": "Our mission is to help our clients achieve their financial goals and secure their future.",
+    "whyworkwithus": "Join our team for a rewarding career in the finance industry with opportunities for growth.",
+    "currentopenings": "We have openings in finance, customer service, and IT departments.",
+    "contactus": ["info@company2bank.com", "+1 (987) 654-3210"],
+    "established_year": 1990,
+    "website": "https://www.company2bank.com",
+    "social_media_links": ["https://www.linkedin.com/company/company2bank", "https://www.facebook.com/company2bank"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0bf", 
+    "aboutus": "We are a global healthcare company committed to improving patient lives through innovation.",
+    "mission": "Our mission is to provide high-quality healthcare products and services worldwide.",
+    "whyworkwithus": "Join us to make a difference in healthcare and be part of a dynamic team.",
+    "currentopenings": "We have job openings in research, development, and healthcare services.",
+    "contactus": ["info@healthcareco.com", "+1 (555) 123-4567"],
+    "established_year": 1995,
+    "website": "https://www.healthcareco.com",
+    "social_media_links": ["https://www.linkedin.com/company/healthcareco", "https://twitter.com/healthcareco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c0",
+    "aboutus": "We are a leading e-commerce company offering a wide range of products online.",
+    "mission": "Our mission is to make online shopping convenient and affordable for everyone.",
+    "whyworkwithus": "Join us to be part of a dynamic e-commerce team and shape the future of online shopping.",
+    "currentopenings": "We have openings in marketing, logistics, and customer support departments.",
+    "contactus": ["contact@ecommerceco.com", "+1 (123) 789-4560"],
+    "established_year": 2000,
+    "website": "https://www.ecommerceco.com",
+    "social_media_links": ["https://www.linkedin.com/company/ecommerceco", "https://www.facebook.com/ecommerceco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c1",
+    "aboutus": "We are a leading automotive manufacturer known for our innovative vehicles.",
+    "mission": "Our mission is to build sustainable and efficient vehicles for a better future.",
+    "whyworkwithus": "Join us to work on cutting-edge automotive technology and shape the future of mobility.",
+    "currentopenings": "We have job openings in engineering, manufacturing, and design departments.",
+    "contactus": ["careers@automotiveco.com", "+1 (789) 456-1230"],
+    "established_year": 2010,
+    "website": "https://www.automotiveco.com",
+    "social_media_links": ["https://www.linkedin.com/company/automotiveco", "https://twitter.com/automotiveco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c2",
+    "aboutus": "We are a global food and beverage company known for our quality products.",
+    "mission": "Our mission is to provide delicious and nutritious food and beverages to consumers.",
+    "whyworkwithus": "Join us to work in the food industry and contribute to providing great tasting products.",
+    "currentopenings": "We have job openings in production, marketing, and quality control departments.",
+    "contactus": ["jobs@foodandbeverageco.com", "+1 (987) 654-7890"],
+    "established_year": 1985,
+    "website": "https://www.foodandbeverageco.com",
+    "social_media_links": ["https://www.linkedin.com/company/foodandbeverageco", "https://www.facebook.com/foodandbeverageco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c3",
+    "aboutus": "We are a leading fashion retailer with a passion for style and trends.",
+    "mission": "Our mission is to provide fashionable clothing and accessories to customers worldwide.",
+    "whyworkwithus": "Join us to work in the fashion industry and be part of a creative and dynamic team.",
+    "currentopenings": "We have job openings in design, retail, and marketing departments.",
+    "contactus": ["careers@fashionco.com", "+1 (555) 987-6543"],
+    "established_year": 1998,
+    "website": "https://www.fashionco.com",
+    "social_media_links": ["https://www.linkedin.com/company/fashionco", "https://www.instagram.com/fashionco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c4",
+    "aboutus": "We are a global energy company focused on sustainable and renewable energy solutions.",
+    "mission": "Our mission is to provide clean and reliable energy to power the future.",
+    "whyworkwithus": "Join us to make a positive impact on the environment and work on renewable energy projects.",
+    "currentopenings": "We have job openings in engineering, research, and project management departments.",
+    "contactus": ["careers@energyco.com", "+1 (123) 456-7890"],
+    "established_year": 2008,
+    "website": "https://www.energyco.com",
+    "social_media_links": ["https://www.linkedin.com/company/energyco", "https://www.twitter.com/energyco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c6",
+    "aboutus": "We are a leading telecommunications company providing cutting-edge communication solutions.",
+    "mission": "Our mission is to connect people and businesses through advanced communication technology.",
+    "whyworkwithus": "Join us to work on innovative telecommunication projects and shape the future of connectivity.",
+    "currentopenings": "We have job openings in network engineering, customer support, and sales departments.",
+    "contactus": ["careers@telecomco.com", "+1 (789) 654-3210"],
+    "established_year": 2002,
+    "website": "https://www.telecomco.com",
+    "social_media_links": ["https://www.linkedin.com/company/telecomco", "https://www.facebook.com/telecomco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c7",
+    "aboutus": "We are a leading aerospace company specializing in aircraft and spacecraft manufacturing.",
+    "mission": "Our mission is to push the boundaries of aerospace technology and explore the universe.",
+    "whyworkwithus": "Join us to work on cutting-edge aerospace projects and be part of space exploration.",
+    "currentopenings": "We have job openings in aerospace engineering, research, and development departments.",
+    "contactus": ["careers@aerospaceco.com", "+1 (123) 789-4560"],
+    "established_year": 1960,
+    "website": "https://www.aerospaceco.com",
+    "social_media_links": ["https://www.linkedin.com/company/aerospaceco", "https://www.twitter.com/aerospaceco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c8",
+    "aboutus": "We are a global travel and tourism company offering unforgettable travel experiences.",
+    "mission": "Our mission is to make travel accessible and enjoyable for everyone.",
+    "whyworkwithus": "Join us to work in the travel industry and help people create lasting memories.",
+    "currentopenings": "We have job openings in travel planning, customer service, and marketing departments.",
+    "contactus": ["careers@travelco.com", "+1 (987) 654-7890"],
+    "established_year": 1999,
+    "website": "https://www.travelco.com",
+    "social_media_links": ["https://www.linkedin.com/company/travelco", "https://www.instagram.com/travelco"]
+  },
+  {
+    "company": "6503c7b0cd4cd139db73b0c9",
+    "aboutus": "We are a leading pharmaceutical company dedicated to improving global health.",
+    "mission": "Our mission is to discover and develop innovative medicines to save lives.",
+    "whyworkwithus": "Join us to work in the pharmaceutical industry and contribute to healthcare advancements.",
+    "currentopenings": "We have job openings in research, development, and clinical trials departments.",
+    "contactus": ["careers@pharmaco.com", "+1 (555) 987-6543"],
+    "established_year": 1975,
+    "website": "https://www.pharmaco.com",
+    "social_media_links": ["https://www.linkedin.com/company/pharmaco", "https://www.facebook.com/pharmaco"]
+  }
+]
+

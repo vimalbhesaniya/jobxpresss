@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6503d1fa4c64e688c64d05d4"
+  },
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0bd"
+  },
+  "aboutus": "We are a global healthcare company committed to improving patient lives through innovation.",
+  "mission": "Our mission is to provide high-quality healthcare products and services worldwide.",
+  "whyworkwithus": "Join us to make a difference in healthcare and be part of a dynamic team.",
+  "currentopenings": "We have job openings in research, development, and healthcare services.",
+  "contactus": [
+    "info@healthcareco.com",
+    "+1 (555) 123-4567"
+  ],
+  "established_year": 1995,
+  "website": "https://www.healthcareco.com",
+  "social_media_links": [
+    "https://www.linkedin.com/company/healthcareco",
+    "https://twitter.com/healthcareco"
+  ],
+  "__v": 0
+}]

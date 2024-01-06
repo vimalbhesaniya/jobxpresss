@@ -1,0 +1,33 @@
+<table className="table table-dark">
+            <thead className="table-active">
+              <tr>
+                <th colSpan="9" className="text-center">Available users</th>
+              </tr>
+            </thead>
+            <thead className="table-info text-primary">
+              <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Location</th>
+                <th>Address</th>
+                <th>Education</th>
+                <th>Experience</th>
+                <th>Skills</th>
+              </tr>
+            </thead>
+      <tbody>
+      <tr>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+              <td>veer</td>
+            </tr>
+      </tbody>
+          </table>

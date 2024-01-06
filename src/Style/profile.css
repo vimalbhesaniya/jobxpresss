@@ -1,0 +1,234 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* margin-block: 2rem; */
+    gap: 2rem;
+    background: black;
+    border-radius: 20px;
+    padding: 50px 0px;
+}
+.card__header{
+    width: 100%;
+    height: 150px;
+
+    display: flex;
+    background-color: #3d3d3d;
+    justify-content: center;
+    align-items: center;
+    font-size: calc(10vh + 1vmin);
+}
+.card__header p{
+    width: 100px;
+    text-align: center;
+    border-radius: 50%;
+    color: rgb(189, 178, 178);
+    /* text-shadow:  0 0 10px rgb(0, 0, 0); */
+    /* background-color: #666; */
+    backdrop-filter: blur(10px);
+}
+h4{
+    text-align: center;
+    color: #ffffff;
+}
+.profession-name{
+    text-align: center;
+    color: #a7a7a7;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 47vh;
+    height: 60vh;
+    /* width: clamp(20rem, calc(20rem + 2vw), 22rem); */
+    overflow: hidden;
+    box-shadow: 0 .1rem 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    background: #ffffff2b;
+    backdrop-filter: blur(20px);
+}
+
+.card__body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.card__body h4 {
+    font-size: 1.5rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+.card__footer {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+/* margin: 10px; */
+    justify-content: center;
+    padding: 2rem;
+}
+
+.profile_picture{
+    width: 100%;
+    height: 140px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(49, 49, 49, 0.736);
+    /* justify-content: center; */
+    /* align-items: center; */
+    color: antiquewhite;
+    font-size : 50px; 
+    flex-direction: column;   
+}
+.user__info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    flex-direction: column;
+}
+.skillul{
+    text-align: center;
+    font-size: 15px;
+    color: #a7a7a7;
+
+}
+th{
+    font-size: small;
+}
+.profile_picture_name{
+    width: 65px;
+    font-size: 45px;
+    /* margin-top: 20px; */
+    background-color: black;
+    height: 65px;
+    display: flex;
+    font-size: 100px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(228, 226, 223);
+
+}
+.profilename{
+    font-size: 1rem;
+    color: black;
+}
+
+.userDetails{
+    min-height: 100px;
+    width: 100%;
+    background-color: rgb(13, 97, 96);
+}
+.UpdateProfilecontents{
+    display: flex;
+    justify-content: space-between;
+
+}
+.vbtn{
+    text-align: center;  
+    padding: 10px; 
+    width: 320px;
+    background: #826c8a;
+    height: 40px;
+    border-radius: 5px;
+    transition: 500ms;
+}
+.vbtn:hover{
+    background: #000;   
+    color: #826c8a;
+}
+input{
+    height: 20px;
+    background: none;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(0, 106, 106);
+}
+textarea{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid rgb(0, 106, 106);
+
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+margin: 0;
+padding: 0;
+
+background-color: #f4f4f4;
+}
+
+.profile-container {
+max-width: 600px;
+/* margin: 50px auto; */
+background-color: #fff;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile-header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+text-align: center;
+padding: 20px;
+background-color: rgb(13, 97, 96);
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+
+.profile-picture {
+    text-align: center;
+width: 120px;
+height: 120px;
+border-radius: 50%;
+border: 5px solid #3d3d3d;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile-name {
+margin: 10px 0;
+color: #fff;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.profile-profession {
+color: #a7a7a7;
+}
+
+.section-title {
+color: #000000;
+margin-top: 20px;
+}
+
+.profile-details {
+    padding: 20px;
+}
+.contact-details p {
+    color: rgb(13, 97, 96) !important;
+    font-weight: 800;
+}
+
+.education-details,
+.contact-details,
+.experience-details,
+.skills-details {
+margin: 10px 0;
+}
+
+h6{
+    color: rgb(13, 97, 96) !important;
+    font-weight: 900;
+}
+.viewButton{
+
+    text-align: center;
+}

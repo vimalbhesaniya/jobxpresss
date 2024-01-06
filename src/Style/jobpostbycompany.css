@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.job-details {
+    max-width: 70%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.job----title {
+    font-size: 24px;
+    margin: 0;
+    color: #333;
+}
+
+.header----info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.company, .location, .job----type {
+    font-size: 16px;
+    color: #555;
+	display: flex;
+	justify-content: start;
+	align-items: start;
+	flex-flow: column;
+	gap: 20px;
+}
+.job_type{
+	font-size: 4rex;
+}
+
+.dates {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.posted----on, .application----deadline {
+    font-size: 14px;
+    color: #888;
+}
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+}
+
+.salary {
+    font-size: 16px;
+    color: #555;
+    margin-top: 10px;
+}

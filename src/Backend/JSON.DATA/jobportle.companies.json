@@ -1,0 +1,564 @@
+[{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0bd"
+  },
+  "id": 1,
+  "company_name": "ABC Inc.",
+  "industry": "Technology",
+  "location": "New York",
+  "email": "abc@example.com",
+  "password": "password1",
+  "contact_phone": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0be"
+  },
+  "id": 2,
+  "company_name": "XYZ Ltd.",
+  "industry": "Finance",
+  "location": "London",
+  "email": "xyz@example.com",
+  "password": "password2",
+  "contact_phone": "9876543210"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c0"
+  },
+  "id": 4,
+  "company_name": "Tech Innovators",
+  "industry": "Technology",
+  "location": "San Francisco",
+  "email": "tech@example.com",
+  "password": "password4",
+  "contact_phone": "9998887777"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c1"
+  },
+  "id": 5,
+  "company_name": "Finance Experts",
+  "industry": "Finance",
+  "location": "Chicago",
+  "email": "finance@example.com",
+  "password": "password5",
+  "contact_phone": "7778889999"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c2"
+  },
+  "id": 6,
+  "company_name": "Health Solutions",
+  "industry": "Healthcare",
+  "location": "Boston",
+  "email": "health@example.com",
+  "password": "password6",
+  "contact_phone": "1112223333"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c3"
+  },
+  "id": 7,
+  "company_name": "Data Wizards",
+  "industry": "Technology",
+  "location": "Seattle",
+  "email": "data@example.com",
+  "password": "password7",
+  "contact_phone": "6665554444"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c4"
+  },
+  "id": 8,
+  "company_name": "Financial Masters",
+  "industry": "Finance",
+  "location": "Toronto",
+  "email": "master@example.com",
+  "password": "password8",
+  "contact_phone": "2223334444"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c5"
+  },
+  "id": 9,
+  "company_name": "Healthcare Innovations",
+  "industry": "Healthcare",
+  "location": "Dallas",
+  "email": "healthcare@example.com",
+  "password": "password9",
+  "contact_phone": "3332221111"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c6"
+  },
+  "id": 10,
+  "company_name": "Tech Solutions Inc.",
+  "industry": "Technology",
+  "location": "Austin",
+  "email": "techsolutions@example.com",
+  "password": "password10",
+  "contact_phone": "8887776666"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c7"
+  },
+  "id": 11,
+  "company_name": "Financial Advisors",
+  "industry": "Finance",
+  "location": "Mumbai",
+  "email": "advisors@example.com",
+  "password": "password11",
+  "contact_phone": "9990001111"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c8"
+  },
+  "id": 12,
+  "company_name": "Healthcare Specialists",
+  "industry": "Healthcare",
+  "location": "Sydney",
+  "email": "specialists@example.com",
+  "password": "password12",
+  "contact_phone": "1110009999"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0c9"
+  },
+  "id": 13,
+  "company_name": "Tech Innovations Ltd.",
+  "industry": "Technology",
+  "location": "Berlin",
+  "email": "techinnovations@example.com",
+  "password": "password13",
+  "contact_phone": "7776665555"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0ca"
+  },
+  "id": 14,
+  "company_name": "Finance Inc.",
+  "industry": "Finance",
+  "location": "Paris",
+  "email": "financeinc@example.com",
+  "password": "password14",
+  "contact_phone": "2221110000"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0cb"
+  },
+  "id": 15,
+  "company_name": "Healthcare Solutions",
+  "industry": "Healthcare",
+  "location": "Singapore",
+  "email": "healthcaresolutions@example.com",
+  "password": "password15",
+  "contact_phone": "5556667777"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0cc"
+  },
+  "id": 16,
+  "company_name": "Tech Wizards",
+  "industry": "Technology",
+  "location": "Dubai",
+  "email": "techwizards@example.com",
+  "password": "password16",
+  "contact_phone": "6667778888"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0cd"
+  },
+  "id": 17,
+  "company_name": "Financial Innovations",
+  "industry": "Finance",
+  "location": "Hong Kong",
+  "email": "financialinnovations@example.com",
+  "password": "password17",
+  "contact_phone": "1114447777"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0ce"
+  },
+  "id": 18,
+  "company_name": "Healthcare Experts",
+  "industry": "Healthcare",
+  "location": "Shanghai",
+  "email": "healthcareexperts@example.com",
+  "password": "password18",
+  "contact_phone": "9991114444"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0cf"
+  },
+  "id": 19,
+  "company_name": "Tech Masters",
+  "industry": "Technology",
+  "location": "Seoul",
+  "email": "techmasters@example.com",
+  "password": "password19",
+  "contact_phone": "7778889999"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d0"
+  },
+  "id": 20,
+  "company_name": "Finance Solutions",
+  "industry": "Finance",
+  "location": "Tokyo",
+  "email": "financesolutions@example.com",
+  "password": "password20",
+  "contact_phone": "3334445555"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d1"
+  },
+  "id": 21,
+  "company_name": "Healthcare Innovators",
+  "industry": "Healthcare",
+  "location": "Beijing",
+  "email": "healthcareinnovators@example.com",
+  "password": "password21",
+  "contact_phone": "6667778888"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d2"
+  },
+  "id": 22,
+  "company_name": "Tech Solutions Ltd.",
+  "industry": "Technology",
+  "location": "Moscow",
+  "email": "techsolutionsltd@example.com",
+  "password": "password22",
+  "contact_phone": "1112223333"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d3"
+  },
+  "id": 23,
+  "company_name": "Financial Experts",
+  "industry": "Finance",
+  "location": "Rio de Janeiro",
+  "email": "financialexperts@example.com",
+  "password": "password23",
+  "contact_phone": "8889990000"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d4"
+  },
+  "id": 24,
+  "company_name": "Healthcare Masters",
+  "industry": "Healthcare",
+  "location": "Cape Town",
+  "email": "healthcaremasters@example.com",
+  "password": "password24",
+  "contact_phone": "5554443333"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d5"
+  },
+  "id": 25,
+  "company_name": "Tech Innovators Inc.",
+  "industry": "Technology",
+  "location": "Buenos Aires",
+  "email": "techinnovatorsinc@example.com",
+  "password": "password25",
+  "contact_phone": "3332221111"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d6"
+  },
+  "id": 26,
+  "company_name": "Finance Wizards",
+  "industry": "Finance",
+  "location": "Sao Paulo",
+  "email": "financewizards@example.com",
+  "password": "password26",
+  "contact_phone": "5556667777"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d7"
+  },
+  "id": 27,
+  "company_name": "Healthcare Specialists Ltd.",
+  "industry": "Healthcare",
+  "location": "Johannesburg",
+  "email": "healthcarespecialistsltd@example.com",
+  "password": "password27",
+  "contact_phone": "1112223333"
+},
+{
+  "_id": {
+    "$oid": "6503c7b0cd4cd139db73b0d9"
+  },
+  "id": 29,
+  "company_name": "Financial Innovations Inc.",
+  "industry": "Finance",
+  "location": "Mexico City",
+  "email": "financialinnovationsinc@example.com",
+  "password": "password29",
+  "contact_phone": "9991114444"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e4"
+  },
+  "id": 31,
+  "company_name": "Tech Innovations Ltd.",
+  "industry": "Technology",
+  "location": "San Francisco",
+  "email": "info@techinnovationsltd.com",
+  "password": "securepass123",
+  "contact_phone": "5556667777"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e5"
+  },
+  "id": 32,
+  "company_name": "Finance Solutions Inc.",
+  "industry": "Finance",
+  "location": "London",
+  "email": "contact@financesolutionsinc.com",
+  "password": "finpass456",
+  "contact_phone": "9876543210"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e6"
+  },
+  "id": 33,
+  "company_name": "Healthcare Innovators Corp.",
+  "industry": "Healthcare",
+  "location": "New York",
+  "email": "info@healthinnovatorscorp.com",
+  "password": "health1234",
+  "contact_phone": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e7"
+  },
+  "id": 34,
+  "company_name": "Green Energy Solutions",
+  "industry": "Renewable Energy",
+  "location": "Los Angeles",
+  "email": "contact@greenenergysolutions.com",
+  "password": "greenpass567",
+  "contact_phone": "4445556666"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e8"
+  },
+  "id": 35,
+  "company_name": "Fashion Forward Ltd.",
+  "industry": "Fashion",
+  "location": "Paris",
+  "email": "info@fashionforwardltd.com",
+  "password": "fashionpass789",
+  "contact_phone": "7778889999"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9e9"
+  },
+  "id": 36,
+  "company_name": "Foodie Delights Inc.",
+  "industry": "Food & Beverage",
+  "location": "Chicago",
+  "email": "contact@foodiedelightsinc.com",
+  "password": "foodie123",
+  "contact_phone": "1112223333"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9ea"
+  },
+  "id": 37,
+  "company_name": "Space Explorations LLC",
+  "industry": "Aerospace",
+  "location": "Houston",
+  "email": "info@spaceexplorationsllc.com",
+  "password": "spacepass456",
+  "contact_phone": "9990001111"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9eb"
+  },
+  "id": 38,
+  "company_name": "Travel Adventures Co.",
+  "industry": "Travel & Tourism",
+  "location": "Barcelona",
+  "email": "contact@traveladventuresco.com",
+  "password": "travel4567",
+  "contact_phone": "6667778888"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9ec"
+  },
+  "id": 39,
+  "company_name": "Pharma Innovations Ltd.",
+  "industry": "Pharmaceuticals",
+  "location": "Berlin",
+  "email": "info@pharmainnovationsltd.com",
+  "password": "pharmapass890",
+  "contact_phone": "8889990000"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9ed"
+  },
+  "id": 40,
+  "company_name": "Eco-friendly Solutions Inc.",
+  "industry": "Environmental Services",
+  "location": "Sydney",
+  "email": "contact@ecofriendlysolutionsinc.com",
+  "password": "eco1234",
+  "contact_phone": "3334445555"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9ee"
+  },
+  "id": 41,
+  "company_name": "Media Productions Group",
+  "industry": "Media & Entertainment",
+  "location": "Los Angeles",
+  "email": "info@mediaproductionsgrp.com",
+  "password": "media7890",
+  "contact_phone": "5554443333"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9ef"
+  },
+  "id": 42,
+  "company_name": "Automotive Innovations Inc.",
+  "industry": "Automotive",
+  "location": "Detroit",
+  "email": "info@autoinnovationsinc.com",
+  "password": "auto12345",
+  "contact_phone": "7778889999"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f0"
+  },
+  "id": 43,
+  "company_name": "Education Solutions Co.",
+  "industry": "Education",
+  "location": "Boston",
+  "email": "contact@educationsolutionsco.com",
+  "password": "edu5678",
+  "contact_phone": "1114447777"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f1"
+  },
+  "id": 44,
+  "company_name": "Sports Management Group",
+  "industry": "Sports",
+  "location": "New York",
+  "email": "info@sportsmanagementgroup.com",
+  "password": "sports12345",
+  "contact_phone": "9991114444"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f2"
+  },
+  "id": 45,
+  "company_name": "Artistic Creations Studio",
+  "industry": "Arts & Crafts",
+  "location": "Los Angeles",
+  "email": "info@artisticcreationsstudio.com",
+  "password": "artstudio6789",
+  "contact_phone": "6667778888"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f3"
+  },
+  "id": 46,
+  "company_name": "Cybersecurity Solutions Inc.",
+  "industry": "Cybersecurity",
+  "location": "San Francisco",
+  "email": "contact@cybersecuritysolutionsinc.com",
+  "password": "cybersecure123",
+  "contact_phone": "1235557890"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f4"
+  },
+  "id": 47,
+  "company_name": "GreenTech Innovations Ltd.",
+  "industry": "Green Technology",
+  "location": "Seattle",
+  "email": "info@greentechinnovationsltd.com",
+  "password": "greentech4567",
+  "contact_phone": "5556667777"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f5"
+  },
+  "id": 48,
+  "company_name": "Music Harmony Productions",
+  "industry": "Music",
+  "location": "Nashville",
+  "email": "info@musicharmonyproductions.com",
+  "password": "music12345",
+  "contact_phone": "7778889999"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f6"
+  },
+  "id": 49,
+  "company_name": "Legal Solutions Group",
+  "industry": "Legal",
+  "location": "Washington, D.C.",
+  "email": "contact@legalsolutionsgrp.com",
+  "password": "legal6789",
+  "contact_phone": "1114447777"
+},
+{
+  "_id": {
+    "$oid": "6506e8e6c8dd9e6e67b6e9f7"
+  },
+  "id": 50,
+  "company_name": "Home Decor Creations Inc.",
+  "industry": "Home Decor",
+  "location": "Miami",
+  "email": "info@homedecorcreationsinc.com",
+  "password": "homedecor123",
+  "contact_phone": "9991114444"
+}]

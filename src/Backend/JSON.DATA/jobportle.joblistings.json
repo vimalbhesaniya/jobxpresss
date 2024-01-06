@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "6506df6d6ed352caea159d42"
+  },
+  "jobTitle": "Marketing Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0be"
+  },
+  "location": "Los Angeles, CA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-19T10:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-20",
+  "jobDescription": "We are looking for an experienced Marketing Manager to lead our marketing efforts.",
+  "requirements": "Bachelor's degree in Marketing, 5+ years of marketing experience.",
+  "responsibilities": "Develop marketing strategies, oversee campaigns, and analyze performance.",
+  "benefits": "Health benefits, stock options, and a competitive salary package.",
+  "howToApply": "Send your resume and portfolio to hr@companyxyz.com",
+  "salary": "$80,000 - $100,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506df996ed352caea159d44"
+  },
+  "jobTitle": "Graphic Designer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0be"
+  },
+  "location": "Chicago, IL",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-20T11:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-18",
+  "jobDescription": "We're seeking a talented Graphic Designer to create stunning visuals.",
+  "requirements": "Bachelor's degree in Graphic Design, proficiency in Adobe Creative Suite.",
+  "responsibilities": "Design marketing materials, collaborate with marketing team.",
+  "benefits": "Flexible work environment and professional development opportunities.",
+  "howToApply": "Submit your portfolio and CV to careers@designcompany.com",
+  "salary": "$50,000 - $60,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506dfc06ed352caea159d46"
+  },
+  "jobTitle": "Sales Representative",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0be"
+  },
+  "location": "Houston, TX",
+  "jobType": [
+    "Commission"
+  ],
+  "postedOn": {
+    "$date": "2023-09-21T12:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-19",
+  "jobDescription": "Join our sales team and help us expand our customer base.",
+  "requirements": "Excellent communication skills, sales experience preferred.",
+  "responsibilities": "Identify leads, make sales calls, and meet monthly sales targets.",
+  "benefits": "Uncapped commission, training provided, and travel opportunities.",
+  "howToApply": "Email your resume to sales@companyabc.com",
+  "salary": "Commission-based",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506dff76ed352caea159d48"
+  },
+  "jobTitle": "Product Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0bf"
+  },
+  "location": "Seattle, WA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-22T13:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-21",
+  "jobDescription": "We're looking for a Product Manager to lead the development of our software products.",
+  "requirements": "Bachelor's degree in Business or related field, product management experience.",
+  "responsibilities": "Define product roadmap, work with development teams, and launch new features.",
+  "benefits": "Stock options, remote work options, and competitive salary.",
+  "howToApply": "Submit your resume and cover letter to jobs@productco.com",
+  "salary": "$90,000 - $110,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e0666ed352caea159d4e"
+  },
+  "jobTitle": "Customer Support Specialist",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0bf"
+  },
+  "location": "Austin, TX",
+  "jobType": [
+    "Part-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-23T14:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-22",
+  "jobDescription": "Provide exceptional customer support to resolve issues and answer inquiries.",
+  "requirements": "Excellent communication skills, previous customer service experience.",
+  "responsibilities": "Respond to customer inquiries via phone and email, troubleshoot issues.",
+  "benefits": "Flexible hours, remote work, and competitive hourly rate.",
+  "howToApply": "Send your resume to support@companyhelpdesk.com",
+  "salary": "$20 - $25 per hour",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e0866ed352caea159d50"
+  },
+  "jobTitle": "Data Scientist",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c0"
+  },
+  "location": "Boston, MA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-24T15:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-23",
+  "jobDescription": "Join our data science team to analyze and extract insights from data.",
+  "requirements": "Master's degree in Data Science, strong programming skills in Python.",
+  "responsibilities": "Analyze data sets, develop predictive models, and present findings to stakeholders.",
+  "benefits": "Healthcare coverage, remote work options, and competitive compensation.",
+  "howToApply": "Submit your CV and portfolio to datascience@datateam.com",
+  "salary": "$80,000 - $100,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e0cc6ed352caea159d52"
+  },
+  "jobTitle": "HR Specialist",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c1"
+  },
+  "location": "Miami, FL",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-25T16:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-24",
+  "jobDescription": "We are seeking an HR Specialist to support our HR department.",
+  "requirements": "Bachelor's degree in HR or related field, HR experience preferred.",
+  "responsibilities": "Assist with recruitment, onboarding, and HR administrative tasks.",
+  "benefits": "Health insurance, retirement plan, and career development opportunities.",
+  "howToApply": "Email your resume to hr@hrcompany.com",
+  "salary": "$45,000 - $55,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e0f56ed352caea159d58"
+  },
+  "jobTitle": "Front-End Developer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c1"
+  },
+  "location": "San Diego, CA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-26T17:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-25",
+  "jobDescription": "Join our front-end development team to create user-friendly web interfaces.",
+  "requirements": "Bachelor's degree in Computer Science, proficiency in HTML, CSS, and JavaScript.",
+  "responsibilities": "Develop and maintain front-end web applications, collaborate with UX designers.",
+  "benefits": "Flexible work schedule, remote work options, and competitive salary.",
+  "howToApply": "Submit your portfolio and resume to frontend@webdevcompany.com",
+  "salary": "$70,000 - $90,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e1706ed352caea159d5e"
+  },
+  "jobTitle": "Content Writer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c2"
+  },
+  "location": "Philadelphia, PA",
+  "jobType": [
+    "Freelance"
+  ],
+  "postedOn": {
+    "$date": "2023-09-28T19:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-27",
+  "jobDescription": "We are seeking a talented Content Writer to create engaging written content.",
+  "requirements": "Excellent writing skills, experience in content creation, and creativity.",
+  "responsibilities": "Write blog posts, articles, and marketing content for various platforms.",
+  "benefits": "Remote work, flexible deadlines, and competitive per-word rates.",
+  "howToApply": "Submit writing samples and a resume to content@writingcompany.com",
+  "salary": "Per-word rate",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e1b96ed352caea159d60"
+  },
+  "jobTitle": "Network Administrator",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c2"
+  },
+  "location": "Denver, CO",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-29T20:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-28",
+  "jobDescription": "Join our IT team as a Network Administrator to manage our network infrastructure.",
+  "requirements": "Bachelor's degree in IT or related field, network administration experience.",
+  "responsibilities": "Maintain network infrastructure, troubleshoot issues, and ensure network security.",
+  "benefits": "Healthcare coverage, 401(k) plan, and opportunities for professional growth.",
+  "howToApply": "Email your resume to network@techcompany.com",
+  "salary": "$70,000 - $85,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e1db6ed352caea159d62"
+  },
+  "jobTitle": "UI/UX Designer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c2"
+  },
+  "location": "Portland, OR",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-09-30T21:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-29",
+  "jobDescription": "We're looking for a UI/UX Designer to create intuitive user interfaces.",
+  "requirements": "Bachelor's degree in Design or related field, UI/UX design experience.",
+  "responsibilities": "Design user-friendly interfaces, conduct user research, and create wireframes.",
+  "benefits": "Remote work options, professional development, and a creative work environment.",
+  "howToApply": "Submit your portfolio and CV to design@uxcompany.com",
+  "salary": "$75,000 - $95,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e22b6ed352caea159d64"
+  },
+  "jobTitle": "Project Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c2"
+  },
+  "location": "Atlanta, GA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-01T22:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-30",
+  "jobDescription": "We are seeking a Project Manager to oversee and coordinate projects.",
+  "requirements": "Bachelor's degree in Project Management, PMP certification is a plus.",
+  "responsibilities": "Plan and execute projects, manage resources, and ensure project success.",
+  "benefits": "Competitive salary, healthcare benefits, and opportunities for advancement.",
+  "howToApply": "Send your resume and cover letter to pm@projectcompany.com",
+  "salary": "$80,000 - $100,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e24d6ed352caea159d66"
+  },
+  "jobTitle": "Social Media Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c3"
+  },
+  "location": "Phoenix, AZ",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-02T23:00:00.000Z"
+  },
+  "applicationDeadline": "2023-10-31",
+  "jobDescription": "Join our marketing team to manage our social media presence and campaigns.",
+  "requirements": "Bachelor's degree in Marketing or related field, social media experience.",
+  "responsibilities": "Create and schedule social media content, analyze metrics, and engage with followers.",
+  "benefits": "Flexible work hours, remote work options, and performance bonuses.",
+  "howToApply": "Email your resume and social media portfolio to smm@marketingco.com",
+  "salary": "$55,000 - $70,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e2ba6ed352caea159d6c"
+  },
+  "jobTitle": "Legal Counsel",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c4"
+  },
+  "location": "San Antonio, TX",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-01",
+  "jobDescription": "We are seeking a Legal Counsel to provide legal advice and support.",
+  "requirements": "Juris Doctor (JD) degree, state bar admission, and legal experience.",
+  "responsibilities": "Review contracts, provide legal guidance, and represent the company in legal matters.",
+  "benefits": "Health and dental insurance, retirement plan, and professional development.",
+  "howToApply": "Send your resume and cover letter to legal@lawfirmco.com",
+  "salary": "$90,000 - $110,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e2fc6ed352caea159d6e"
+  },
+  "jobTitle": "Quality Assurance Tester",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c4"
+  },
+  "location": "Detroit, MI",
+  "jobType": [
+    "Contract"
+  ],
+  "postedOn": {
+    "$date": "2023-10-04T01:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-02",
+  "jobDescription": "Join our QA team to test and ensure the quality of our software products.",
+  "requirements": "Bachelor's degree in IT or related field, QA testing experience.",
+  "responsibilities": "Create and execute test cases, report defects, and assist in debugging.",
+  "benefits": "Contract-based role, competitive hourly rate, and the potential for extension.",
+  "howToApply": "Submit your resume to qa@techcompany.com",
+  "salary": "$25 - $35 per hour",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e3576ed352caea159d74"
+  },
+  "jobTitle": "Human Resources Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c5"
+  },
+  "location": "Minneapolis, MN",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-05T02:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-03",
+  "jobDescription": "We are looking for an HR Manager to lead our HR department and initiatives.",
+  "requirements": "Bachelor's degree in HR or related field, HR management experience.",
+  "responsibilities": "Oversee HR functions, employee relations, and talent acquisition.",
+  "benefits": "Comprehensive benefits package, career growth opportunities, and competitive salary.",
+  "howToApply": "Email your resume and cover letter to hrmanager@hrco.com",
+  "salary": "$80,000 - $100,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e3766ed352caea159d76"
+  },
+  "jobTitle": "Software Quality Assurance Engineer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c5"
+  },
+  "location": "Raleigh, NC",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-06T03:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-04",
+  "jobDescription": "Join our QA team to ensure the quality of our software products.",
+  "requirements": "Bachelor's degree in Computer Science, QA testing experience.",
+  "responsibilities": "Develop and execute test plans, report defects, and automate test cases.",
+  "benefits": "Healthcare coverage, remote work options, and professional development.",
+  "howToApply": "Submit your resume to qaengineer@techcompany.com",
+  "salary": "$70,000 - $85,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e3ab6ed352caea159d78"
+  },
+  "jobTitle": "Digital Marketing Specialist",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c5"
+  },
+  "location": "Nashville, TN",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-07T04:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-05",
+  "jobDescription": "We are seeking a Digital Marketing Specialist to drive online marketing efforts.",
+  "requirements": "Bachelor's degree in Marketing, digital marketing experience.",
+  "responsibilities": "Plan and execute digital marketing campaigns, analyze metrics, and optimize strategies.",
+  "benefits": "Flexible work hours, remote work options, and performance-based bonuses.",
+  "howToApply": "Send your resume and portfolio to digitalmarketing@marketingco.com",
+  "salary": "$60,000 - $75,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e3db6ed352caea159d7e"
+  },
+  "jobTitle": "IT Support Technician",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c6"
+  },
+  "location": "Orlando, FL",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-08T05:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-06",
+  "jobDescription": "Join our IT team to provide technical support to employees and maintain IT infrastructure.",
+  "requirements": "Associate's degree in IT or related field, IT support experience.",
+  "responsibilities": "Troubleshoot hardware and software issues, assist with IT projects.",
+  "benefits": "Health and dental insurance, 401(k) plan, and opportunities for advancement.",
+  "howToApply": "Email your resume to itsupport@techcompany.com",
+  "salary": "$45,000 - $55,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e3fd6ed352caea159d80"
+  },
+  "jobTitle": "Product Designer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c6"
+  },
+  "location": "San Jose, CA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-09T06:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-07",
+  "jobDescription": "We're looking for a Product Designer to create innovative product experiences.",
+  "requirements": "Bachelor's degree in Design, product design experience.",
+  "responsibilities": "Design user-centric product interfaces, collaborate with cross-functional teams.",
+  "benefits": "Competitive salary, remote work options, and a creative work environment.",
+  "howToApply": "Submit your portfolio and CV to productdesigner@designcompany.com",
+  "salary": "$80,000 - $95,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e41e6ed352caea159d82"
+  },
+  "jobTitle": "Financial Analyst",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c7"
+  },
+  "location": "Salt Lake City, UT",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-10T07:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-08",
+  "jobDescription": "Join our finance team to analyze financial data and provide insights.",
+  "requirements": "Bachelor's degree in Finance or related field, financial analysis experience.",
+  "responsibilities": "Analyze financial statements, prepare reports, and support budgeting processes.",
+  "benefits": "Health insurance, retirement plan, and professional development opportunities.",
+  "howToApply": "Email your resume and cover letter to finance@financialco.com",
+  "salary": "$65,000 - $80,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e4396ed352caea159d84"
+  },
+  "jobTitle": "Content Marketing Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c7"
+  },
+  "location": "Kansas City, MO",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-11T08:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-09",
+  "jobDescription": "We are looking for a Content Marketing Manager to lead content strategy.",
+  "requirements": "Bachelor's degree in Marketing, content marketing experience.",
+  "responsibilities": "Develop content strategy, oversee content creation, and measure content performance.",
+  "benefits": "Flexible work hours, remote work options, and performance-based bonuses.",
+  "howToApply": "Send your resume and portfolio to contentmanager@marketingco.com",
+  "salary": "$70,000 - $90,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e4916ed352caea159d8a"
+  },
+  "jobTitle": "Customer Success Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c7"
+  },
+  "location": "Charlotte, NC",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-13T10:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-11",
+  "jobDescription": "Join our customer success team to ensure our clients achieve their goals.",
+  "requirements": "Bachelor's degree, customer success or account management experience.",
+  "responsibilities": "Build and maintain client relationships, track customer success metrics.",
+  "benefits": "Health insurance, flexible work hours, and opportunities for growth.",
+  "howToApply": "Email your resume to customersuccess@company.com",
+  "salary": "$65,000 - $80,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e4ac6ed352caea159d8c"
+  },
+  "jobTitle": "Electrical Engineer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c8"
+  },
+  "location": "San Antonio, TX",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-14T11:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-12",
+  "jobDescription": "We are looking for an Electrical Engineer to design and develop electrical systems.",
+  "requirements": "Bachelor's degree in Electrical Engineering, electrical engineering experience.",
+  "responsibilities": "Design electrical circuits, conduct tests, and troubleshoot issues.",
+  "benefits": "Competitive salary, healthcare coverage, and opportunities for innovation.",
+  "howToApply": "Submit your resume and cover letter to engineer@company.com",
+  "salary": "$70,000 - $90,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e4d66ed352caea159d8e"
+  },
+  "jobTitle": "Event Coordinator",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c8"
+  },
+  "location": "Dallas, TX",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-15T12:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-13",
+  "jobDescription": "Join our events team to plan and execute memorable events.",
+  "requirements": "Bachelor's degree, event planning experience.",
+  "responsibilities": "Plan and coordinate events, manage logistics, and collaborate with vendors.",
+  "benefits": "Flexible work schedule, event planning resources, and creativity encouraged.",
+  "howToApply": "Email your resume and event portfolio to events@company.com",
+  "salary": "$50,000 - $60,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e5316ed352caea159d94"
+  },
+  "jobTitle": "Mechanical Engineer",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c8"
+  },
+  "location": "Seattle, WA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-16T13:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-14",
+  "jobDescription": "We are seeking a Mechanical Engineer to design and analyze mechanical systems.",
+  "requirements": "Bachelor's degree in Mechanical Engineering, mechanical engineering experience.",
+  "responsibilities": "Design mechanical components, perform simulations, and optimize systems.",
+  "benefits": "Health and dental benefits, retirement plan, and opportunities for innovation.",
+  "howToApply": "Submit your resume and cover letter to mechanical@company.com",
+  "salary": "$75,000 - $90,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e5536ed352caea159d96"
+  },
+  "jobTitle": "Operations Manager",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0c9"
+  },
+  "location": "Houston, TX",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-17T14:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-15",
+  "jobDescription": "We are looking for an Operations Manager to oversee our day-to-day operations.",
+  "requirements": "Bachelor's degree, operations management experience.",
+  "responsibilities": "Manage daily operations, optimize processes, and lead cross-functional teams.",
+  "benefits": "Competitive salary, healthcare coverage, and opportunities for leadership.",
+  "howToApply": "Email your resume and cover letter to operations@company.com",
+  "salary": "$80,000 - $100,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e58a6ed352caea159d9c"
+  },
+  "jobTitle": "UI/UX Researcher",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0ca"
+  },
+  "location": "Los Angeles, CA",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-18T15:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-16",
+  "jobDescription": "Join our UI/UX team to conduct user research and enhance user experiences.",
+  "requirements": "Bachelor's degree in Human-Computer Interaction or related field, research experience.",
+  "responsibilities": "Conduct user research, usability testing, and provide actionable insights.",
+  "benefits": "Flexible work schedule, remote work options, and a user-centered work environment.",
+  "howToApply": "Submit your resume and research portfolio to uiresearch@company.com",
+  "salary": "$70,000 - $85,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e5f56ed352caea159da2"
+  },
+  "jobTitle": "Legal Assistant",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0ca"
+  },
+  "location": "Miami, FL",
+  "jobType": [
+    "Full-time"
+  ],
+  "postedOn": {
+    "$date": "2023-10-19T16:00:00.000Z"
+  },
+  "applicationDeadline": "2023-11-17",
+  "jobDescription": "We are seeking a Legal Assistant to provide administrative support to our legal team.",
+  "requirements": "Associate's degree in Legal Studies, legal assistant experience.",
+  "responsibilities": "Assist with legal documentation, scheduling, and client communication.",
+  "benefits": "Health and dental insurance, retirement plan, and professional development opportunities.",
+  "howToApply": "Email your resume to legalassistant@lawfirm.com",
+  "salary": "$40,000 - $50,000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6532613ba8a73f1a00c4d744"
+  },
+  "jobTitle": "asdsa",
+  "company": {
+    "$oid": "6503c7b0cd4cd139db73b0bd"
+  },
+  "location": "",
+  "jobType": [],
+  "postedOn": {
+    "$date": "2023-10-20T11:14:59.961Z"
+  },
+  "applicationDeadline": "",
+  "jobDescription": "",
+  "requirements": "",
+  "responsibilities": "",
+  "benefits": "",
+  "howToApply": "",
+  "__v": 0
+}]

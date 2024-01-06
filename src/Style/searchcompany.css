@@ -1,0 +1,90 @@
+/*****RECENT JOB SECTION RECENT JOB SECTION*****/
+.recent-job {
+	display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    overflow: scroll;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    /* margin-top: 100px; */
+    gap: 20px;
+    /* padding: 20px; */
+    min-height: 100vh;
+}
+
+
+.recent-job-heading {
+	text-align: center;
+	color: #343a40;
+}
+
+.recent-job-sub-heading {
+	text-align: center;
+	/* margin-bottom: 30px; */
+}
+
+.recent-job-list {
+  padding: 15px;
+    border: black  solid 1px;
+	/* float: left; */
+    width: 90vh;
+	/* background-color: white; */
+	/* padding: 20px; */
+	/* margin-left: 10px; */
+	/* margin-right: 10px; */
+	/* margin-bottom: 20px; */
+}
+.container-input {
+    margin-top: 10px;
+    position: relative;
+  }
+  
+  .input {
+    width: 50vh;
+    padding: 10px 0px 10px 40px;
+    border-radius: 9999px;
+    border: solid 1px #333;
+    transition: all .2s ease-in-out;
+    outline: none;
+    opacity: 0.8;
+  }
+  
+  .container-input svg {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translate(0, -50%);
+  }
+  
+  .input:focus {
+    opacity: 1;
+    width: 70vh;
+  }
+.job-title {
+	font-size: 20px;
+}
+
+.job-company {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.job-company i {
+	color: orange;
+	margin-left: 10px;
+}
+
+.job-skill {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+.job-apply-button {
+	background: blue;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	float: right;
+}
